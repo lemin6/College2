@@ -18,3 +18,6 @@ camcslamcpoamc
 acaskmcasncpasc
 ascascmopamcas
 Caslcmioasncpainscl
+
+# College2
+Добавилa новую строку для теста слияния.
