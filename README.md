@@ -19,6 +19,7 @@ acaskmcasncpasc
 ascascmopamcas
 Caslcmioasncpainscl
 
+HEAD
 
 
 
@@ -32,3 +33,7 @@ vmsdiovmsdivmadv
 dvjaoidvjaoikvmav
 dvjdvuihaivav
 dvjuadvhiaolkvad
+
+# College2
+Добавилa новую строку для теста слияния.
+ feature-1
